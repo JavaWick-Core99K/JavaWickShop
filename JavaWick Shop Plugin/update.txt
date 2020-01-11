@@ -1,0 +1,26 @@
+v2.6
+- Pre-official release
+
+v2.6.1
+- Created tool shop w/
+  - Iron tools
+  - Diamond tools
+
+v2.6.2
+- Created block shop w/
+  - Dirt x64 for $2 (tradeable)
+  - Cobblestone x64 for $5 (tradeable)
+- Added tier weapons for iron, gold, and diamond sword
+- Added gold tools to the tool shop
+- Increased sales price for golden apples
+
+v2.6.3
+- Increased pumpkin trade price: $5
+- Increased melon trade price: 1 block = $10
+
+v2.6.4
+- Added "Transportation Shop"
+  - Elytra
+  - Powered and unpowered rails
+  - Minecart
+- Arrows are now sold in the weapon shop

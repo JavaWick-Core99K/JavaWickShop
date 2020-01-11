@@ -1,0 +1,10 @@
+main: me.javawick.shop.Main
+name: JavaWickShop
+version: 2.6.4
+api-version: 1.14
+author: JavaWick
+
+commands:
+  shop:
+    description: 'Opens the global market'
+    usage: '/shop'
