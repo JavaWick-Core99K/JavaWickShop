@@ -104,8 +104,6 @@ public class ItemClick implements Listener {
 					p.sendMessage(Color.chat("&aItem bought!"));
 				}
 				
-				plugin.getBank().getBalanceBoard().updatePlayerScoreboard(p);
-				
 				return;
 			}
 
